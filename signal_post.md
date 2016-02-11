@@ -21,4 +21,4 @@ It's essential to highlight successes of integrating digital preservation activi
 - AMIA [Open Source Committee](https://github.com/amiaopensource)
 - Lightweight introduction panels to Github and other digital preservation software tools in [previous AMIA conferences](http://amianet.org/events/past-conferences)
 
-Because of these initial steps, and the overwhelmining interest evident from the community, we are excited to see the intersection of audiovisual content and digital preservation to grow in visibility and expertise.  
+Because of these initial steps, and the persistent, overwhelmining interest evident in our community, we are excited to see the intersection of audiovisual content and digital preservation grow in visibility and expertise.  
