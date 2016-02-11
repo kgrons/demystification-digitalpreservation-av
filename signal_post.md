@@ -4,7 +4,7 @@ So, we spent 1 month creating a collaborative proposal for a stream of sessions 
 - Digital preservation in practice (strategies)
 - How to preserve: sharing, learning, and building collaboratively (innovation and practical engagement)
 - Dissolving boundaries: the necessity of multi-disciplinary input for preservation (borrow and steal from people smarter than us)
-- Transitioning from digital preservation project to program (sustainability)
+- Transitioning from a short-term digital preservation project to a long-term program (sustainability)
 
 This list ballooned to 15 high level entries from A/V archivists,  digital asset managers, conservation and preservation specialists, and many more professionals from library, archive, museum, gallery, government, and broadcast industries. We also received 10+ session proposals during the two-week period the document was open for public comment and contributions. 
 
