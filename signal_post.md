@@ -19,6 +19,7 @@ With this base knowledge, the audiovisual archiving community can be part of a w
 It's essential to highlight successes of integrating digital preservation activities and concepts into educational and professional development opportunities. The following activities demonstrate there is a persisting need and interest in the topics of increased digital literacy within audiovisual preservation:
 - [AMIA/DLF co-sponsored Hack Days] (http://wiki.curatecamp.org/index.php/Association_of_Moving_Image_Archivists_%26_Digital_Library_Federation_Hack_Day_2015)
 - AMIA [Open Source Committee](https://github.com/amiaopensource)
-- Lightweight introduction panels to Github and other digital preservation software tools in [previous AMIA conferences](http://amianet.org/events/past-conferences)
+- Lightweight introduction panels to digital preservation tools and concepts  in [previous AMIA conferences](http://amianet.org/events/past-conferences)
+- The voluntary engagement of individual AV professionals in professional organizations and trainings that focus on digital preservation
 
 Because of these initial steps, and the persistent, overwhelming interest evident in our community, we are excited to see the intersection of audiovisual content and digital preservation grow in visibility and expertise.  
