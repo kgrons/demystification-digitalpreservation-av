@@ -1,12 +1,12 @@
 **The intersection of digital preservation and audiovisual archiving is at a tipping point.** From the rapid improvements in digital capture technology, to storage that has increased in capacity and decreased in price, to the widespread use of cloud-based storage solutions, to the adoption of file-based production workflows and digital distribution technology, we are witnessing a series of transformations that fundamentally alter theories and practices of moving image management and access. But as the media production and use landscape evolves, so too have preservation strategies. 
 
-So, we spent 1 month creating a collaborative proposal for a stream of sessions at the annual [Association of Moving Image Archivists](http://amianet.org/) (AMIA) conference. The stream focuses on questions, challenges, and benefits related to this subject. We pre-populated a public proposal document with 4 concepts and asked individuals from many communities to propose sessions, sign a letter of support (totaling at ### signatures at the time of writing this post), and add topics of interest that would be beneficial to the A/V community. Our suggested concepts included:
+So, we spent 1 month creating a collaborative proposal for a stream of sessions at the annual [Association of Moving Image Archivists](http://amianet.org/) (AMIA) conference. The stream focuses on questions, challenges, and benefits related to this subject. We pre-populated a public proposal document with 4 concepts and asked individuals from many communities to propose sessions, sign a letter of support (totaling at ### signatures at the time of writing this post), and add topics of interest that would benefit the A/V community. Our initial proposal included:
 - Digital preservation in practice (_strategies_)
 - How to preserve: sharing, learning, and building collaboratively (_innovation and practical engagement_)
 - Dissolving boundaries: the necessity of multi-disciplinary input for preservation (_borrow and steal from people smarter than us_)
 - Transitioning from a short-term digital preservation project to a long-term program (_sustainability_)
 
-This list ballooned to 15 high level entries from A/V archivists, digital asset managers, conservation and preservation specialists, and many more professionals from library, archive, museum, gallery, government, and broadcast industries. We received 10+ session proposals during the two-week period the document was open for public comment and contributions. 
+Shortly after release, this list ballooned to 15 ideas. Submissions came from from A/V archivists, digital asset managers, conservation and preservation specialists, and many more professionals from library, archive, museum, gallery, government, and broadcast industries. We received 10+ session proposals during the two-week period the document was open for public comment and contributions. 
 
 _You proposed a stream topic - what's the big deal?_
 
