@@ -1,6 +1,6 @@
 **The intersection of digital preservation and audiovisual archiving is at a tipping point.** From the rapid improvements in digital capture technology, to storage that has increased in capacity and decreased in price, to the widespread use of cloud-based storage solutions, to the adoption of file-based production workflows and digital distribution technology, we are witnessing a series of transformations that fundamentally alter theories and practices of moving image management and access. But as the media production and use landscape evolves, so too have preservation strategies. 
 
-So, we spent 1 month creating a collaborative proposal for a stream of sessions at the annual [Association of Moving Image Archivists](http://amianet.org/) (AMIA) conference. The stream focuses on questions, challenges, and benefits related to this subject. We pre-populated a public proposal document with 4 concepts and asked individuals from many communities to propose sessions, sign a letter of support (totaling at 175+ signatures at the time of writing this post), and add topics of interest that would benefit the A/V community. Our initial proposal included:
+So, we spent 1 month creating a collaborative proposal for a stream of sessions at the annual [Association of Moving Image Archivists](http://amianet.org/) (AMIA) conference. The stream focuses on questions, challenges, and benefits related to this subject. We pre-populated a public proposal document with 4 concepts and asked individuals from many communities to propose sessions, sign a letter of support (totaling 175+ signatures at the time of writing), and add topics that would benefit the A/V community. Our initial proposal included:
 - Digital preservation in practice (_strategies_)
 - How to preserve: sharing, learning, and building collaboratively (_innovation and practical engagement_)
 - Dissolving boundaries: the necessity of multi-disciplinary input for preservation (_borrow and steal from people smarter than us_)
@@ -19,7 +19,7 @@ With this base knowledge, the audiovisual archiving community can be part of a w
 There are successes in integrating digital preservation activities and concepts into A/V educational and professional development opportunities. The following activities demonstrate interest in increased digital literacy within audiovisual preservation:
 - [AMIA/DLF co-sponsored Hack Days] (http://wiki.curatecamp.org/index.php/Association_of_Moving_Image_Archivists_%26_Digital_Library_Federation_Hack_Day_2015)
 - AMIA [Open Source Committee](https://github.com/amiaopensource)
-- Lightweight introduction panels to digital preservation tools and concepts  in [previous AMIA conferences](http://amianet.org/events/past-conferences)
+- Lightweight introduction panels to digital preservation tools and concepts in [previous AMIA conferences](http://amianet.org/events/past-conferences) and programming alternatives dedicated to digital asset management
 - The voluntary engagement of individual AV professionals in professional organizations and trainings that focus on digital preservation
 
 Because of these steps, and the persistent, overwhelming interest evident in our community, we are excited to see the intersection of audiovisual content and digital preservation grow in visibility and expertise.  
