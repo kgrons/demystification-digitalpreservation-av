@@ -12,7 +12,7 @@ The wholesale acceptance of digital preservation has been slower within the movi
 
 Integrating digital preservation activities into A/V preservation and increasing digital literacy across the field is integral to the field’s continued success and relevance. There have been some important gains in this area in recent years, including:
 - [AMIA/DLF co-sponsored Hack Days] (http://wiki.curatecamp.org/index.php/Association_of_Moving_Image_Archivists_%26_Digital_Library_Federation_Hack_Day_2015)
-- AMIA [Open Source Committee](https://github.com/amiaopensource) and the The Open Source Digital Preserva􏰃on and Access Stream from the [2014 AMIA conference](http://www.amiaconference.net/wp-content/uploads/2014/08/Program-Final-Web2.pdf). 
+- AMIA [Open Source Committee](https://github.com/amiaopensource) and the The Open Source Digital Preservation and Access Stream from the [2014 AMIA conference](http://www.amiaconference.net/wp-content/uploads/2014/08/Program-Final-Web2.pdf). 
 - Lightweight introduction panels to digital preservation concepts and software in [previous AMIA conferences](http://amianet.org/events/past-conferences) and programming alternatives dedicated to digital asset management
 - The voluntary engagement of individual AV professionals in professional organizations and training that focus on digital preservation
 
